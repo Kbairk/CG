@@ -1,0 +1,17 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "..\\..\\CMakeBuilds\\-1930293588\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\Include",
+    "\\obj",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\mesh.cpp",
+  "PreviewInSolutionExplorer": false
+}

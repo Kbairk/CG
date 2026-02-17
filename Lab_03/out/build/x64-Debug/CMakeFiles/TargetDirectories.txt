@@ -1,0 +1,3 @@
+C:/Users/k0wal/Downloads/Lab_03/out/build/x64-Debug/CMakeFiles/renderer.dir
+C:/Users/k0wal/Downloads/Lab_03/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/k0wal/Downloads/Lab_03/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
