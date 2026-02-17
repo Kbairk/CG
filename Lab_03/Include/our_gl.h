@@ -13,6 +13,7 @@ void projection(float coeff=0.f);
 void lookat(Vec3f eye, Vec3f center, Vec3f up);
 
 struct IShader {
+    float alpha = 0.0f;
     virtual ~IShader();
     virtual Vec4f vertex(int iface, int nthvert) = 0;
     virtual bool fragment(Vec3f bar, TGAColor &color) = 0;
